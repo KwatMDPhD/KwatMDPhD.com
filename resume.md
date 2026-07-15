@@ -22,7 +22,7 @@ KwatME.com
 
 **2018 10 - 2019 06** Bioinformatician at Stuart Schreiber Laboratory, The Broad Institute of MIT and Harvard Chemical Biology and Therapeutic Sciences
 
-**2015 06 - 2019 07** Founder at Guardiome LLC
+**2015 06 - 2019 07** Founder at Guardiome
 
 **2015 10 - 2024 01** Bioinformatician at Pablo Tamayo Laboratory, UCSD Moores Cancer Center
 
@@ -30,9 +30,9 @@ KwatME.com
 
 **2020 09 -** Bioinformatician at Mark Davis Laboratory, Stanford Institute for Immunity, Transplantation, and Infection
 
-**2023 12 - 2024 04** Founder at Immunogram Co
+**2023 12 - 2024 04** Founder at Immunogram
 
-**2025 07 -** Founder at Caucell Inc
+**2025 07 -** Founder at Caucell
 
 ## Presentation
 
@@ -44,7 +44,7 @@ Society for Advancement of Hispanics/Chicanos and Native Americans in Science (S
 
 **2014**
 
-University of California Leadership Excellence through Advanced Degrees (UC LEADS) Annual Symposium
+University of California Leadership Excellence through Advanced Degrees (UCLEADS) Annual Symposium
 
 American Association for Cancer Research (AACR) Annual Meeting
 
@@ -58,7 +58,7 @@ International Genetically Engineered Machine (iGEM) Giant Jamboree (talk)
 
 **2015**
 
-UC LEADS Annual Symposium
+UCLEADS Annual Symposium
 
 AACR Annual Meeting
 
@@ -74,13 +74,13 @@ UCSD Faculty Mentor Program Symposium
 
 San Diego Entrepreneur Night (talk)
 
-Y Combinator Interview (talk)
+Y Combinator (YC) Interview (talk)
 
 **2017**
 
 AACR Annual Meeting
 
-National Cancer Institute Cancer Target Discovery and Development (NCI CTD2) Annual Meeting (talk)
+National Cancer Institute Cancer Target Discovery and Development (NCICTD2) Annual Meeting (talk)
 
 **2018**
 
@@ -88,7 +88,7 @@ UCSD Campus-Wide Cancer Genomics Meeting (talk)
 
 AACR Annual Meeting
 
-NCI CTD2 Annual Meeting (talk)
+NCICTD2 Annual Meeting (talk)
 
 AACR Artificial Intelligence, Big Data, and Prediction in Cancer Meeting
 
@@ -96,7 +96,7 @@ AACR Artificial Intelligence, Big Data, and Prediction in Cancer Meeting
 
 AACR Advances in Pediatric Cancer Research Meeting
 
-Y Combinator Interview (talk)
+YC Interview (talk)
 
 **2022**
 
@@ -128,7 +128,7 @@ UCSD RCP Award
 
 UCSD RCP Award
 
-UC LEADS Fellowship
+UCLEADS Fellowship
 
 UCSD STARS Fellowship
 
