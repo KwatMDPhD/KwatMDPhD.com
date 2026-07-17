@@ -1,4 +1,4 @@
-## Kwat Medetgul-Ernar (Huwate Yeerna)
+## Kwat Medetgul-Ernar
 
 KwatME.com
 
